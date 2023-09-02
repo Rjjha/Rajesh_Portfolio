@@ -168,6 +168,10 @@ ul ol {
   border-top-left-radius: 13px;
   border-top-right-radius: 13px;
 }
+.experience-company-logo img{
+  height: 0.9rem;
+  object-fit: cover;
+}
 
 .experience-card-1 .featured-image {
   background-size: cover;
